@@ -35,9 +35,9 @@ Soy un apasionado de los datos con un fuerte conocimiento en herramientas como P
 
 ## Proyectos Destacados
 
-### **Proyecto 1: Tablero de Ventas**
+### **Proyecto 1: Tablero de Indicadores **
 - **Descripción**: Un tablero de ventas interactivo para productos de consumo que ofrece una visión integral del rendimiento, identifica tendencias y analiza datos clave.
-- **Tecnologías utilizadas**: Power BI, PostgreSQL, Microsoft Excel.
+- **Tecnologías utilizadas**: Power BI, PostgreSQL, 
 - **Objetivo**: Facilitar la toma de decisiones comerciales mediante análisis visuales.
 
 **Vista previa del tablero:** *(Aquí puedes incluir capturas o enlaces a imágenes.)*
